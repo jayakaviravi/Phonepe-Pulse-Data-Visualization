@@ -3,6 +3,8 @@
 
 PhonePe is a popular digital payments and financial services platform in India. It enables users to make seamless transactions using their smartphones, including payments, money transfers, bill payments, and online shopping. With its user-friendly interface and wide acceptance, PhonePe has become a convenient and widely used platform for digital transactions in India.
 
+![Intro GUI](https://github.com/jayakaviravi/Phonepe-Pulse-Data-Visualization/blob/main/phonepe.png)
+
  **Skills take away From This Project**
 
  1. Github Cloning
@@ -58,3 +60,5 @@ Use the "mysql-connector-python" library to connect to the MySQL database. Fetch
 ### Deployment:
 Ensure the solution is secure, efficient, and user-friendly. Test the solution thoroughly and deploy the dashboard publicly, making it accessible to users.
 
+![Intro GUI](https://github.com/jayakaviravi/Phonepe-Pulse-Data-Visualization/blob/main/geomap.png)
+![Intro GUI](https://github.com/jayakaviravi/Phonepe-Pulse-Data-Visualization/blob/main/insights.png)
